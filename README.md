@@ -8,7 +8,7 @@
 
 ___
 
-This project is centered around my book *Higher Order Puritism*, which builds upon the foundational concepts of Puritism and delves into a more refined and philosophical approach. The work aims to guide individuals toward achieving higher levels of clarity and purpose in their actions and thoughts, aligning with my overall goals for [Classical Education]() and personal growth.
+This project is centered around my book *Higher Order Puritism*.
 
 ___
 
